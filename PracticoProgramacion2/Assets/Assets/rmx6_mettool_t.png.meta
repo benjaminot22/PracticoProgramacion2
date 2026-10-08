@@ -1,0 +1,1235 @@
+fileFormatVersion: 2
+guid: e84e4235778ed63478b68eef1440fc15
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6496369334993159519
+    second: rmx6_mettool_t_0
+  - first:
+      213: -1726939100017096522
+    second: rmx6_mettool_t_1
+  - first:
+      213: -2977757610714164296
+    second: rmx6_mettool_t_2
+  - first:
+      213: 2804108688093876719
+    second: rmx6_mettool_t_3
+  - first:
+      213: -5877411156628425935
+    second: rmx6_mettool_t_4
+  - first:
+      213: 4361981368239898800
+    second: rmx6_mettool_t_5
+  - first:
+      213: -2845120051155207281
+    second: rmx6_mettool_t_6
+  - first:
+      213: -8641008690019483711
+    second: rmx6_mettool_t_7
+  - first:
+      213: 33751718087063942
+    second: rmx6_mettool_t_8
+  - first:
+      213: 339243440260843328
+    second: rmx6_mettool_t_9
+  - first:
+      213: -863699387759281662
+    second: rmx6_mettool_t_10
+  - first:
+      213: 8687939168036634267
+    second: rmx6_mettool_t_11
+  - first:
+      213: -9161136541572424623
+    second: rmx6_mettool_t_12
+  - first:
+      213: 7659517268679386121
+    second: rmx6_mettool_t_13
+  - first:
+      213: -3316351621309681735
+    second: rmx6_mettool_t_14
+  - first:
+      213: -3573518388318335665
+    second: rmx6_mettool_t_15
+  - first:
+      213: 3772658641857799766
+    second: rmx6_mettool_t_16
+  - first:
+      213: 4729986161174043738
+    second: rmx6_mettool_t_17
+  - first:
+      213: 6706007140829809203
+    second: rmx6_mettool_t_18
+  - first:
+      213: -8672012619018773862
+    second: rmx6_mettool_t_19
+  - first:
+      213: 5785981718258947193
+    second: rmx6_mettool_t_20
+  - first:
+      213: 694385767770311269
+    second: rmx6_mettool_t_21
+  - first:
+      213: 6329177244297984433
+    second: rmx6_mettool_t_22
+  - first:
+      213: -4858657937761086822
+    second: rmx6_mettool_t_23
+  - first:
+      213: -7277414415772791702
+    second: rmx6_mettool_t_24
+  - first:
+      213: 4355198510405904348
+    second: rmx6_mettool_t_25
+  - first:
+      213: -1999660159366558224
+    second: rmx6_mettool_t_26
+  - first:
+      213: -5012949974611773155
+    second: rmx6_mettool_t_27
+  - first:
+      213: 4607967847568932697
+    second: rmx6_mettool_t_28
+  - first:
+      213: -1017276290380638879
+    second: rmx6_mettool_t_29
+  - first:
+      213: 6487213832203865080
+    second: rmx6_mettool_t_30
+  - first:
+      213: -699514916945299914
+    second: rmx6_mettool_t_31
+  - first:
+      213: -7775153126383471896
+    second: rmx6_mettool_t_32
+  - first:
+      213: 3185789125025641920
+    second: rmx6_mettool_t_33
+  - first:
+      213: 7040942260594991604
+    second: rmx6_mettool_t_34
+  - first:
+      213: -87009011057935888
+    second: rmx6_mettool_t_35
+  - first:
+      213: -4883278457474310695
+    second: rmx6_mettool_t_36
+  - first:
+      213: -4437632649179132204
+    second: rmx6_mettool_t_37
+  - first:
+      213: 5538638651410152739
+    second: rmx6_mettool_t_38
+  - first:
+      213: 9172791964979569244
+    second: rmx6_mettool_t_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: rmx6_mettool_t_0
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 221
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f55020ead7db72a50800000000000000
+      internalID: 6496369334993159519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmx6_mettool_t_1
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 221
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b88fbac90ea808e0800000000000000
+      internalID: -1726939100017096522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmx6_mettool_t_2
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 221
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b39a2ada31eca6d0800000000000000
+      internalID: -2977757610714164296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmx6_mettool_t_3
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 221
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe11c69bef13ae620800000000000000
+      internalID: 2804108688093876719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmx6_mettool_t_4
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 221
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 133be3261bd3f6ea0800000000000000
+      internalID: -5877411156628425935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmx6_mettool_t_5
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 221
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b0cfc291fed88c30800000000000000
+      internalID: 4361981368239898800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmx6_mettool_t_6
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 180
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8b7d87336a1488d0800000000000000
+      internalID: -2845120051155207281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmx6_mettool_t_7
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 180
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cf3352e068f41880800000000000000
+      internalID: -8641008690019483711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmx6_mettool_t_8
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 180
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 689732f3209e77000800000000000000
+      internalID: 33751718087063942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmx6_mettool_t_9
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 180
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 047012d8c1c35b400800000000000000
+      internalID: 339243440260843328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmx6_mettool_t_10
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 180
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20ab2ef9bf58304f0800000000000000
+      internalID: -863699387759281662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmx6_mettool_t_11
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 180
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9eb60584a2c19870800000000000000
+      internalID: 8687939168036634267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmx6_mettool_t_12
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 180
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15c99bc6ada1dd080800000000000000
+      internalID: -9161136541572424623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmx6_mettool_t_13
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 180
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 904ea9ebf521c4a60800000000000000
+      internalID: 7659517268679386121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmx6_mettool_t_14
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 141
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bfab8d65c3f9f1d0800000000000000
+      internalID: -3316351621309681735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmx6_mettool_t_15
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 141
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4d85f985ff486ec0800000000000000
+      internalID: -3573518388318335665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmx6_mettool_t_16
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 141
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 656edbedb0d2b5430800000000000000
+      internalID: 3772658641857799766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmx6_mettool_t_17
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 141
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5cda416a5944a140800000000000000
+      internalID: 4729986161174043738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmx6_mettool_t_18
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 141
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33ac462f6f5801d50800000000000000
+      internalID: 6706007140829809203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmx6_mettool_t_19
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 141
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9a5ea32872d6a780800000000000000
+      internalID: -8672012619018773862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmx6_mettool_t_20
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 102
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9749ab1a7bfeb4050800000000000000
+      internalID: 5785981718258947193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmx6_mettool_t_21
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 102
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56a49014d24f2a900800000000000000
+      internalID: 694385767770311269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmx6_mettool_t_22
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 102
+        width: 37
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b9fdd69b21c5d750800000000000000
+      internalID: 6329177244297984433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmx6_mettool_t_23
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 102
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a925e9e0954929cb0800000000000000
+      internalID: -4858657937761086822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmx6_mettool_t_24
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 102
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6c4e80752e610b90800000000000000
+      internalID: -7277414415772791702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmx6_mettool_t_25
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 83
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd7ed0b68f5c07c30800000000000000
+      internalID: 4355198510405904348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmx6_mettool_t_26
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 87
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fd84710ea7cf34e0800000000000000
+      internalID: -1999660159366558224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmx6_mettool_t_27
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 86
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d19367ece8c6e6ab0800000000000000
+      internalID: -5012949974611773155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmx6_mettool_t_28
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 86
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95f74c2e75ac2ff30800000000000000
+      internalID: 4607967847568932697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmx6_mettool_t_29
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 46
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1655f698a98e1e1f0800000000000000
+      internalID: -1017276290380638879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmx6_mettool_t_30
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 30
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fb03821c96370a50800000000000000
+      internalID: 6487213832203865080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmx6_mettool_t_31
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 30
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6367364a3e2da46f0800000000000000
+      internalID: -699514916945299914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmx6_mettool_t_32
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 30
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e235a31d6b191490800000000000000
+      internalID: -7775153126383471896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmx6_mettool_t_33
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 30
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c5b4768452363c20800000000000000
+      internalID: 3185789125025641920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmx6_mettool_t_34
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 30
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f1ecc67ea376b160800000000000000
+      internalID: 7040942260594991604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmx6_mettool_t_35
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 30
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f932a3f3c1eacef0800000000000000
+      internalID: -87009011057935888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmx6_mettool_t_36
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 7
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dd1dea9d1c1b3cb0800000000000000
+      internalID: -4883278457474310695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmx6_mettool_t_37
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 7
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4de800efd9c5a62c0800000000000000
+      internalID: -4437632649179132204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmx6_mettool_t_38
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 4
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32dfc8c22823ddc40800000000000000
+      internalID: 5538638651410152739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmx6_mettool_t_39
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 8
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c522a2f41bd4c4f70800000000000000
+      internalID: 9172791964979569244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      rmx6_mettool_t_0: 6496369334993159519
+      rmx6_mettool_t_1: -1726939100017096522
+      rmx6_mettool_t_10: -863699387759281662
+      rmx6_mettool_t_11: 8687939168036634267
+      rmx6_mettool_t_12: -9161136541572424623
+      rmx6_mettool_t_13: 7659517268679386121
+      rmx6_mettool_t_14: -3316351621309681735
+      rmx6_mettool_t_15: -3573518388318335665
+      rmx6_mettool_t_16: 3772658641857799766
+      rmx6_mettool_t_17: 4729986161174043738
+      rmx6_mettool_t_18: 6706007140829809203
+      rmx6_mettool_t_19: -8672012619018773862
+      rmx6_mettool_t_2: -2977757610714164296
+      rmx6_mettool_t_20: 5785981718258947193
+      rmx6_mettool_t_21: 694385767770311269
+      rmx6_mettool_t_22: 6329177244297984433
+      rmx6_mettool_t_23: -4858657937761086822
+      rmx6_mettool_t_24: -7277414415772791702
+      rmx6_mettool_t_25: 4355198510405904348
+      rmx6_mettool_t_26: -1999660159366558224
+      rmx6_mettool_t_27: -5012949974611773155
+      rmx6_mettool_t_28: 4607967847568932697
+      rmx6_mettool_t_29: -1017276290380638879
+      rmx6_mettool_t_3: 2804108688093876719
+      rmx6_mettool_t_30: 6487213832203865080
+      rmx6_mettool_t_31: -699514916945299914
+      rmx6_mettool_t_32: -7775153126383471896
+      rmx6_mettool_t_33: 3185789125025641920
+      rmx6_mettool_t_34: 7040942260594991604
+      rmx6_mettool_t_35: -87009011057935888
+      rmx6_mettool_t_36: -4883278457474310695
+      rmx6_mettool_t_37: -4437632649179132204
+      rmx6_mettool_t_38: 5538638651410152739
+      rmx6_mettool_t_39: 9172791964979569244
+      rmx6_mettool_t_4: -5877411156628425935
+      rmx6_mettool_t_5: 4361981368239898800
+      rmx6_mettool_t_6: -2845120051155207281
+      rmx6_mettool_t_7: -8641008690019483711
+      rmx6_mettool_t_8: 33751718087063942
+      rmx6_mettool_t_9: 339243440260843328
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
